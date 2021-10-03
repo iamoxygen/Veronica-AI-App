@@ -1,7 +1,7 @@
 # Veronica-AI-App
 Java based Voice Assistants 
 
-#What Voice Assistant (Veronica)
+# What Voice Assistant (Veronica)
 
 A voice assistant is a digital assistant that uses voice recognition, 
 speech synthesis, and natural language processing (NLP) to provide a service through a particular application.
@@ -30,11 +30,11 @@ Project file link
 
 ### Step 4 : Tap the microphone icon for speak. Please wait for few second to response “Hey I’m Veronica How can I help you ” then you have to tap.
 
-Question you Can ask from her : -- 
+# Question you Can ask from her : -- 
 
 ## What is your name
 ## Who made you
 ## tell me a joke
 ## say hi to everyone
-## What is Time nowsilent 
+## What is Time now silent 
 
