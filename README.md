@@ -1,7 +1,7 @@
 # Veronica-AI-App
 Java based Voice Assistants 
 
-What Voice Assistant (Veronica)
+#What Voice Assistant (Veronica)
 
 A voice assistant is a digital assistant that uses voice recognition, 
 speech synthesis, and natural language processing (NLP) to provide a service through a particular application.
@@ -10,14 +10,14 @@ Presently voice assistants are already able to process orders of products, answe
 like playing music or start a simple phone call with a friend.
 
 
-How it Works
+#How it Works
 
 The software is the actual core of the artificial intelligence that enables the smart speaker or Smartphone to answer our specific questions and human commands. 
 Being able to understand and process our questions is the great challenge voice assistants have to master. 
 Meaning a voice assistant has to be able to learn and make use of languages to be able to pick the right answers to our commands
 
 
-How to Install Veronica in your device
+#How to Install Veronica in your device
 
 Step 1 : Veronica is android base app which you need android device you have select apk file from the project file or link below there .
 Veronica app link
@@ -32,9 +32,9 @@ Step 4 : Tap the microphone icon for speak. Please wait for few second to respon
 
 Question you Can ask from her : -- 
 
-What is your name
-Who made you
-tell me a joke
-say hi to everyone
-What is Time nowsilent 
+##What is your name
+##Who made you
+##tell me a joke
+##say hi to everyone
+##What is Time nowsilent 
 
